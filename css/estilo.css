@@ -22,4 +22,39 @@ h2 {
 	background-color: #CCCCCC;
 }
 
+#menu li{
+	display: inline-block;
+	padding: 10px;
+	font: bold 12px verdana, sans-serif;
+}
+
+#seccion{
+	border: 1px solid #ABABAB;
+	width: 900px;
+	background-color: #918F8F;
+	margin-left:30px;
+	margin-right: 11px;
+	float: left;
+	margin-top: 10px;
+}
+
+#columna{
+	background-color: #CCCCCC;
+	float: left;
+	margin-left: 10px;
+	width: 520px;
+	height: 50px;
+	margin: 10px;
+}
+
+#pie{
+	border: 1px solid #ABABAB;
+	background-color: #918F8F;
+	padding: 15px;
+	text-align: center;
+	margin-top:  70px;
+}
+
+
+
 
